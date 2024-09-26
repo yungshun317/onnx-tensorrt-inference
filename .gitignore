@@ -1,6 +1,7 @@
 yolo-weapon-detection-4/
 resnet18/
 yolov4/
+yolov5/
 dataset/
 models/
 *.h5
